@@ -15,5 +15,4 @@
 
 - Python
 - Flask
-- PostgreSQL
-- Docker
+- SQLite
